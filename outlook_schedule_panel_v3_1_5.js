@@ -35,7 +35,7 @@
   const STYLE_ID = 'outlook-rpa-schedule-panel-style-v3-1-5';
   const STORAGE_KEY = 'outlook_rpa_schedule_panel_v3_1_5_state';
   const MAX_LOG_LINES = 500;
-  const META = { version: '3.1.5', author: '陈柏安' };
+  const META = { version: '3.1.5', author: 'WG' };
   const WAIT_TOAST_MS = 3000;
   const DEFAULT_PLACEHOLDER = '[Name/Team]';
   const DEFAULT_SUBJECT = 'Paper Packaging Supplier Introduction – Zaya Packaging';
